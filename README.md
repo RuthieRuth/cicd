@@ -8,4 +8,4 @@ Continuous Integration Tools
   a simple example about how CI/CD works in github actions
 
 - example github action
-- git remote set-url origin
+- git remote set-url origin url
